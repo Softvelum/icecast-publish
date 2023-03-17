@@ -8,4 +8,4 @@ Sample files for Icecast publishing into Nimble Streamer.
 
 Please read this article for more details: https://blog.wmspanel.com/2016/11/process-published-icecast-nimble-streamer.html
 
-Take a look at audio streaming features of Nimble Streamer: https://wmspanel.com/nimble/audio_streaming
+Take a look at [audio streaming features](https://softvelum.com/nimble/icecast) of Nimble Streamer.
